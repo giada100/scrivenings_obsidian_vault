@@ -5,6 +5,11 @@ The vault includes a folder dedicated to [Summer Brennan's Essay Camp](https://w
 ## Requirements
 You need [Obsidian](https://obsidian.md/) installed on your device
 
+## How to download the vault
+To download the compressed folder, go to [Scrivenings.zip](https://github.com/giada100/scrivenings_obsidian_vault/blob/main/Scrivenings.zip), then click on the download icon.
+
+<img width="1437" alt="Screenshot 2023-10-27 alle 13 38 30" src="https://github.com/giada100/scrivenings_obsidian_vault/assets/73423590/b8c85214-2036-4029-88ca-6853d233e82d">
+
 
 ## Instructions
 1.  Download the vault to your device and unzip it.
