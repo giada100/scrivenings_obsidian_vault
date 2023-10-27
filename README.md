@@ -12,10 +12,11 @@ To download the compressed folder, go to [Scrivenings.zip](https://github.com/gi
 
 
 ## Instructions
-1.  Download the vault to your device and unzip it.
-2. Open Obsidian and click the "Open another vault" icon (third from the bottom of the toolbar).
-3. Instead of clicking on Create a new vault, click Open folder as vault.
-4. Navigate to the folder you unzipped the file in, select it, and click Open.
+1. Download the vault to your device and unzip it.
+2. Place the uncompressed folder wherever you want to store it in your device.
+3. Open Obsidian and click the "Open another vault" icon (third from the bottom of the toolbar).
+4. Instead of clicking on Create a new vault, click Open folder as vault.
+5. Navigate to the folder you unzipped the file in, select it, and click Open.
 
 
 ## Included theme and plugins
